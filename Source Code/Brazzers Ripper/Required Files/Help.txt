@@ -1,0 +1,13 @@
+Because this application is a sample application, it is already hardcoded to download the brazzers website.
+
+To start the ripping operation, simply click on the Begin button. Once the operation is running, you can cancel it by simply clicking on the cancel button.
+
+The label marked '_' allows you to minimize the application once a rip is in progress while the label marked 'V' opens up a new dialog that lists all of the already downloaded folders.
+
+The Overwrite Existing Files option controls whether the application downloads every single parsed file or simply ignores existing files.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+Note: The ripped site is created in the Rip folder, located in the main application folder.
+
+-- Last Updated: 30/01/2008 --
